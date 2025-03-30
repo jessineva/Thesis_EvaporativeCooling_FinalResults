@@ -1,0 +1,7 @@
+{
+   "created_at" : "20230327T155419Z",
+   "seed_file" : "../003_cafeteria_ventanasiguales_altas.osm",
+   "steps" : [],
+   "updated_at" : "20230405T165605Z",
+   "weather_file" : "epw_todoigualCST.epw"
+}

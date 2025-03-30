@@ -1,0 +1,21 @@
+Program Version,EnergyPlus, Version 22.1.0-ed759b17ee, YMD=2024.09.16 18:26,
+   ************* Successfully added path "C:\\Users\\Usuario\\Desktop\\tesis\\Thesis_EvaporativeCooling3.0\\idf\\OneZone_OpenWind" to the sys.path in Python
+   ** Warning ** This building has no thermal mass which can cause an unstable solution.
+   **   ~~~   ** Use Material object for all opaque material definitions except very light insulation layers.
+   ** Warning ** ComputeIntSWAbsorbFactors: Sum of area times inside solar absorption for all surfaces is zero in Zone: NCAFETERIA
+   ** Warning ** GetUserConvectionCoefficients: SurfaceProperty:ConvectionCoefficients:MultipleSurface, for Surface Type=ALLINTERIORSURFACES
+   **   ~~~   ** Convection Coefficient 2 Location is blank and rest of fields will not be processed.
+   ** Warning ** Zone areas*inside surface emissivities are summing to zero, for Zone="NCAFETERIA"
+   **   ~~~   ** As a result, MRT will be set to MAT for that zone
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ************* Simulation Error Summary *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 4 Warning; 0 Severe Errors; Elapsed Time=00hr 00min 12.47sec

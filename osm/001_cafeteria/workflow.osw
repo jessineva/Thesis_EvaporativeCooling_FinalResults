@@ -1,0 +1,7 @@
+{
+   "created_at" : "20230317T165149Z",
+   "seed_file" : "../001_cafeteria.osm",
+   "steps" : [],
+   "updated_at" : "20230317T183041Z",
+   "weather_file" : "epw_escalonadoCST.epw"
+}

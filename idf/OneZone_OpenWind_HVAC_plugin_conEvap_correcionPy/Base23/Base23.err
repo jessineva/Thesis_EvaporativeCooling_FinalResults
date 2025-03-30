@@ -1,0 +1,35 @@
+Program Version,EnergyPlus, Version 22.1.0-ed759b17ee, YMD=2024.09.16 17:52,
+   ************* Successfully added path "C:\\Users\\Usuario\\Desktop\\tesis\\Thesis_EvaporativeCooling3.0\\idf\\OneZone_OpenWind_HVAC_plugin_conEvap_correcionPy\\Base23" to the sys.path in Python
+   ************* Successfully added path "C:\\Users\\Usuario\\Desktop\\tesis\\Thesis_EvaporativeCooling3.0\\idf\\OneZone_OpenWind_HVAC_plugin_conEvap_correcionPy" to the sys.path in Python
+   ************* PythonPlugin: Class EvapMistCooling imported from: C:\Users\Usuario\Desktop\tesis\Thesis_EvaporativeCooling3.0\idf\OneZone_OpenWind_HVAC_plugin_conEvap_correcionPy\Base23\Base23.py
+   ** Warning ** This building has no thermal mass which can cause an unstable solution.
+   **   ~~~   ** Use Material object for all opaque material definitions except very light insulation layers.
+   ** Warning ** CheckUsedConstructions: There are 1 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Warning ** ComputeIntSWAbsorbFactors: Sum of area times inside solar absorption for all surfaces is zero in Zone: NCAFETERIA
+   ** Warning ** GetUserConvectionCoefficients: SurfaceProperty:ConvectionCoefficients:MultipleSurface, for Surface Type=ALLINTERIORSURFACES
+   **   ~~~   ** Convection Coefficient 2 Location is blank and rest of fields will not be processed.
+   ** Warning ** Zone areas*inside surface emissivities are summing to zero, for Zone="NCAFETERIA"
+   **   ~~~   ** As a result, MRT will be set to MAT for that zone
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ************* Simulation Error Summary *************
+   ************* There are 5 unused schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   *************
+   ************* ===== Final Error Summary =====
+   ************* The following error categories occurred.  Consider correcting or noting.
+   ************* Nominally Unused Constructions
+   ************* ..The nominally unused constructions warning is provided to alert you to potential conditions that can cause
+   ************* ..extra time during simulation. Each construction is calculated by the algorithm indicated in the HeatBalanceAlgorithm
+   ************* ..object. You may remove the constructions indicated (when you use the DisplayExtraWarnings option).
+   *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 5 Warning; 0 Severe Errors; Elapsed Time=00hr 00min 21.21sec

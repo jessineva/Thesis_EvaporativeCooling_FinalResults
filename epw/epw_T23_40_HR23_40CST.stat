@@ -1,0 +1,428 @@
+ -EnergyPlus Weather Converter V8.1.0.005
+ Statistics for epw_T23_40_HR23_40CST
+ Location -- Temixco Morelos MEX  
+      {N 18° 30'} {W  99°  8'} {GMT -6.0 Hours}
+ Elevation --  1280m above sea level
+ Standard Pressure at Elevation --  86864Pa
+ Data Source -- ---
+
+ WMO Station *unknown*
+
+
+ -  Design Temperatures  not calculated, Number of days < 1 year
+ ** Warning -- number of days < 1 year, Statistics reported are based only on data processed
+
+ - Monthly Statistics for Dry Bulb temperatures °C
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	Maximum 	 40.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Day:Hour	20:01	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Minimum 	 23.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Day:Hour	 1:01	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Daily Avg	29.6 	     	     	     	     	     	     	     	     	     	     	     	
+
+   - Maximum Dry Bulb temperature of  40.0°C on Jan 20
+   - Minimum Dry Bulb temperature of  23.0°C on Jan  1
+
+ - Monthly Statistics for Extreme Dry Bulb temperatures °C
+ 	  #Days  	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	Max >= 32	   12	     	     	     	     	     	     	     	     	     	     	     	
+ 	Max <=  0	     	     	     	     	     	     	     	     	     	     	     	     	
+ 	Min <=  0	     	     	     	     	     	     	     	     	     	     	     	     	
+ 	Min <=-18	     	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Monthly Statistics for Dew Point temperatures °C
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	Maximum 	23.8 	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Day:Hour	20:01	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Minimum 	0.8  	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Day:Hour	 1:01	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Daily Avg	9.7  	     	     	     	     	     	     	     	     	     	     	     	
+
+   - Maximum Dew Point temperature of  23.8°C on Jan 20
+   - Minimum Dew Point temperature of   0.8°C on Jan  1
+
+ - Average Hourly Statistics for Dry Bulb temperatures °C
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	 0:01- 1:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	 1:01- 2:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	 2:01- 3:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	 3:01- 4:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	 4:01- 5:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	 5:01- 6:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	 6:01- 7:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	 7:01- 8:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	 8:01- 9:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	 9:01-10:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	10:01-11:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	11:01-12:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	12:01-13:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	13:01-14:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	14:01-15:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	15:01-16:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	16:01-17:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	17:01-18:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	18:01-19:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	19:01-20:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	20:01-21:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	21:01-22:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	22:01-23:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	23:01-24:00	 29.6	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Max Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Min Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Average Hourly Statistics for Dew Point temperatures °C
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	 0:01- 1:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	 1:01- 2:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	 2:01- 3:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	 3:01- 4:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	 4:01- 5:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	 5:01- 6:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	 6:01- 7:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	 7:01- 8:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	 8:01- 9:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	 9:01-10:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	10:01-11:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	11:01-12:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	12:01-13:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	13:01-14:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	14:01-15:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	15:01-16:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	16:01-17:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	17:01-18:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	18:01-19:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	19:01-20:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	20:01-21:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	21:01-22:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	22:01-23:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	23:01-24:00	  9.7	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Max Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Min Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Monthly Statistics for Relative Humidity %
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	Maximum  	40   	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Day:Hour 	20:01	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Minimum  	23   	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Day:Hour 	 1:01	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Daily Avg	30   	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Average Hourly Relative Humidity %
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	 0:01- 1:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	 1:01- 2:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	 2:01- 3:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	 3:01- 4:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	 4:01- 5:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	 5:01- 6:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	 6:01- 7:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	 7:01- 8:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	 8:01- 9:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	 9:01-10:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	10:01-11:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	11:01-12:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	12:01-13:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	13:01-14:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	14:01-15:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	15:01-16:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	16:01-17:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	17:01-18:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	18:01-19:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	19:01-20:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	20:01-21:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	21:01-22:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	22:01-23:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	23:01-24:00	   30	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Max Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Min Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Monthly Indicators for Precipitation/Moisture (kPa)
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	         	  1.5	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Monthly Statistics for Wind Chill/Heat Index temperatures °C **
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	Minimum WC	     	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Day:Hour	     	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Average WC	     	     	     	     	     	     	     	     	     	     	     	     	
+ 	Avg Del WC	     	     	     	     	     	     	     	     	     	     	     	     	
+ 	 # Occur WC	     	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Maximum HI	     	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Day:Hour	     	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Average HI	     	     	     	     	     	     	     	     	     	     	     	     	
+ 	Avg Del HI	     	     	     	     	     	     	     	     	     	     	     	     	
+ 	 # Occur HI	     	     	     	     	     	     	     	     	     	     	     	     	
+
+   - **WindChill/HeatIndex Temps -- statistics...only those different from Air Temps
+
+ - Monthly Wind Direction % {N=0 or 360,E=90,S=180,W=270}
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	North    	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	NorthEast	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	East     	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	SouthEast	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	South    	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	SouthWest	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	West     	  100	     	     	     	     	     	     	     	     	     	     	     	
+ 	NorthWest	    0	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Monthly Statistics for Wind Speed m/s
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	Maximum 	0.0  	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Day:Hour 	 1:01	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Minimum 	0.0  	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Day:Hour 	 1:01	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Daily Avg	0.0  	     	     	     	     	     	     	     	     	     	     	     	
+
+   - Maximum Wind Speed of   0.0 m/s on Jan  1
+   - Minimum Wind Speed of   0.0 m/s on Jan  1
+
+ - Average Hourly Statistics for Wind Speed m/s
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	 0:01- 1:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 1:01- 2:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 2:01- 3:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 3:01- 4:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 4:01- 5:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 5:01- 6:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 6:01- 7:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 7:01- 8:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 8:01- 9:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 9:01-10:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	10:01-11:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	11:01-12:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	12:01-13:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	13:01-14:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	14:01-15:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	15:01-16:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	16:01-17:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	17:01-18:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	18:01-19:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	19:01-20:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	20:01-21:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	21:01-22:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	22:01-23:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	23:01-24:00	  0.0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Max Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Min Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Average Hourly Statistics for Wind Direction ° {N=0 or 360,E=90,S=180,W=270}
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	 0:01- 1:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 1:01- 2:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 2:01- 3:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 3:01- 4:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 4:01- 5:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 5:01- 6:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 6:01- 7:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 7:01- 8:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 8:01- 9:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 9:01-10:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	10:01-11:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	11:01-12:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	12:01-13:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	13:01-14:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	14:01-15:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	15:01-16:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	16:01-17:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	17:01-18:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	18:01-19:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	19:01-20:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	20:01-21:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	21:01-22:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	22:01-23:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	23:01-24:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Max Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Min Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Monthly Statistics for Solar Radiation  (Direct Normal, Diffuse, Global Horizontal) Wh/m²
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	Direct Avg 	0    	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Direct Max 	0    	     	     	     	     	     	     	     	     	     	     	     	
+ 	    Day    	   1 	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Diffuse Avg	6480 	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	Global Avg 	6480 	     	     	     	     	     	     	     	     	     	     	     	
+   - Maximum Direct Normal Solar of     0 Wh/m² on Jan  1
+
+ - Average Hourly Statistics for Direct Normal Solar Radiation Wh/m²
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	 0:01- 1:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 1:01- 2:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 2:01- 3:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 3:01- 4:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 4:01- 5:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 5:01- 6:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 6:01- 7:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 7:01- 8:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 8:01- 9:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 9:01-10:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	10:01-11:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	11:01-12:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	12:01-13:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	13:01-14:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	14:01-15:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	15:01-16:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	16:01-17:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	17:01-18:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	18:01-19:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	19:01-20:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	20:01-21:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	21:01-22:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	22:01-23:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	23:01-24:00	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Max Hour*	   1*	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Min Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Average Hourly Statistics for Diffuse Horizontal Solar Radiation Wh/m²
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	 0:01- 1:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 1:01- 2:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 2:01- 3:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 3:01- 4:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 4:01- 5:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 5:01- 6:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 6:01- 7:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 7:01- 8:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 8:01- 9:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 9:01-10:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	10:01-11:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	11:01-12:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	12:01-13:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	13:01-14:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	14:01-15:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	15:01-16:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	16:01-17:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	17:01-18:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	18:01-19:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	19:01-20:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	20:01-21:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	21:01-22:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	22:01-23:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	23:01-24:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Max Hour*	   1*	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Min Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Average Hourly Statistics for Global Horizontal Solar Radiation Wh/m²
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	 0:01- 1:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 1:01- 2:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 2:01- 3:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 3:01- 4:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 4:01- 5:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 5:01- 6:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 6:01- 7:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 7:01- 8:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 8:01- 9:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 9:01-10:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	10:01-11:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	11:01-12:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	12:01-13:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	13:01-14:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	14:01-15:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	15:01-16:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	16:01-17:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	17:01-18:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	18:01-19:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	19:01-20:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	20:01-21:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	21:01-22:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	22:01-23:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	23:01-24:00	  270	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Max Hour*	   1*	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Min Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Average Hourly Statistics for Total Sky Cover %
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	 0:01- 1:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 1:01- 2:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 2:01- 3:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 3:01- 4:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 4:01- 5:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 5:01- 6:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 6:01- 7:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 7:01- 8:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 8:01- 9:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 9:01-10:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	10:01-11:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	11:01-12:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	12:01-13:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	13:01-14:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	14:01-15:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	15:01-16:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	16:01-17:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	17:01-18:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	18:01-19:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	19:01-20:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	20:01-21:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	21:01-22:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	22:01-23:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	23:01-24:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Max Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Min Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Average Hourly Statistics for Opaque Sky Cover %
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	 0:01- 1:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 1:01- 2:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 2:01- 3:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 3:01- 4:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 4:01- 5:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 5:01- 6:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 6:01- 7:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 7:01- 8:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 8:01- 9:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 9:01-10:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	10:01-11:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	11:01-12:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	12:01-13:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	13:01-14:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	14:01-15:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	15:01-16:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	16:01-17:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	17:01-18:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	18:01-19:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	19:01-20:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	20:01-21:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	21:01-22:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	22:01-23:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	23:01-24:00	   50	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Max Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+ 	 Min Hour  	   1 	     	     	     	     	     	     	     	     	     	     	     	
+
+ - Heating/Cooling Degree Days/Hours calculated from this weather file.
+ - Monthly Weather File Heating/Cooling Degree Days/Hours
+ 	           	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+ 	HDD base 10C	    0	     	     	     	     	     	     	     	     	     	     	     	
+ 	HDD base 18C	    0	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	CDD base 10C	*****	     	     	     	     	     	     	     	     	     	     	     	
+ 	CDD base 18C	*****	     	     	     	     	     	     	     	     	     	     	     	
+
+ 	CDH base 20C	 7128	     	     	     	     	     	     	     	     	     	     	     	
+ 	CDH base 23C	 4896	     	     	     	     	     	     	     	     	     	     	     	
+ 	CDH base 27C	 3744	     	     	     	     	     	     	     	     	     	     	     	
+
+    -***** annual (wthr file) cooling degree-days (10°C baseline)
+    -    0 annual (wthr file) heating degree-days (10°C baseline)
+
+    -***** annual (wthr file) cooling degree-days (18°C baseline)
+    -    0 annual (wthr file) heating degree-days (18°C baseline)
+
+ - Köppen classification not shown, number of days < 1 year
+
+ - ASHRAE classification not shown, number of days < 1 year
+ -  Typical/Extreme periods not calculated, Number of days < 1 year
