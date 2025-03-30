@@ -1,2 +1,3 @@
-# learning_thermodynamics
-Repo para aprender a evaporar H2O
+# Evaporative Cooling in the Instituto de
+Energías Renovables
+Thesis experiments and results
